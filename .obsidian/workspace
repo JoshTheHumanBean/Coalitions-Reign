@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Current Ideas/The Threat.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Current Ideas/The Threat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,9 @@
   },
   "active": "811753bc73ba460f",
   "lastOpenFiles": [
-    "README.md",
-    "The Coalition.md"
+    "Current Ideas/The Threat.md",
+    "Current Ideas/The Knights.md",
+    "Current Ideas/Coaliton.md",
+    "README.md"
   ]
 }
