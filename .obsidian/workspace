@@ -7,11 +7,8 @@
         "id": "811753bc73ba460f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Current Ideas/The Threat.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current Ideas/The Threat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +84,11 @@
   },
   "active": "811753bc73ba460f",
   "lastOpenFiles": [
-    "Current Ideas/The Threat.md",
-    "Current Ideas/The Knights.md",
     "Current Ideas/Coaliton.md",
+    "Current Ideas/The Knights.md",
+    "Coalition.md",
+    "Current Ideas/The Threat.md",
+    "threat.md",
     "README.md"
   ]
 }
