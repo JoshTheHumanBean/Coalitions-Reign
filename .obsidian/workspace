@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "811753bc73ba460f",
+        "id": "8b5cb4eb3d6ab457",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -86,11 +86,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "811753bc73ba460f",
+  "active": "8b5cb4eb3d6ab457",
   "lastOpenFiles": [
     "Current Ideas/The Threat.md",
-    "Current Ideas/Coaliton.md",
     "Current Ideas/The Knights.md",
+    "Current Ideas/Coaliton.md",
     "Coalition.md",
     "threat.md",
     "README.md"
