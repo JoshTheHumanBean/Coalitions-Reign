@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Current Ideas/The Knights.md",
+            "file": "Current Ideas/Technology.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current Ideas/The Knights.md",
+                "file": "Current Ideas/Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "8b5cb4eb3d6ab457",
   "lastOpenFiles": [
+    "Current Ideas/Technology.md",
     "Current Ideas/The Knights.md",
     "Current Ideas/The Threat.md",
     "Current Ideas/Coaliton.md",
