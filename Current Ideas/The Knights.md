@@ -3,5 +3,5 @@ Some six centuries ago, the [[Coaliton]]] was threatened by a fierce organized [
 
 ---
 ##### Ideas
-EThey use some closely-guarded magical techniques to increase mobility And they basically move like the Spartans from Halo, Pilots from Titanfall, and whoever the people from Attack on Titan are
-Also want to have some important figures from its founding and from its history
+- They use some closely-guarded magical techniques and technology to increase mobility. And they basically move like the Spartans from Halo, Pilots from Titanfall, and whoever the people from Attack on Titan are.
+- Also want to have some important figures from its founding and from its history
