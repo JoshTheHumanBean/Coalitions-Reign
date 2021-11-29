@@ -7,8 +7,11 @@
         "id": "8b5cb4eb3d6ab457",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Current Ideas/The Knights.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Current Ideas/The Knights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,9 +88,9 @@
   },
   "active": "8b5cb4eb3d6ab457",
   "lastOpenFiles": [
-    "Current Ideas/Technology.md",
     "Current Ideas/The Knights.md",
     "Current Ideas/The Threat.md",
+    "Current Ideas/Technology.md",
     "Current Ideas/Coaliton.md",
     "Coalition.md",
     "threat.md",
