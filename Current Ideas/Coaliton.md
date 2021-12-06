@@ -5,3 +5,4 @@ Formerly a suprnational organization created by 4 founding states, it blended ov
 ##### Ideas
 
 
+hr4fhhcihyilcrtvyfily6iyut5i5yilgyli5ygily56lry5ilful*https://cdn.website-editor.net/3974f14672c149828790534a6740d8ee/files/uploaded/cello_position_fingering_chart.pdf*cot5i/viluu**
