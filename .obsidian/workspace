@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Current Ideas/The Coaliton.md",
+            "file": "Current Ideas/Warfare.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current Ideas/The Coaliton.md",
+                "file": "Current Ideas/Warfare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "8b5cb4eb3d6ab457",
   "lastOpenFiles": [
+    "Current Ideas/Warfare.md",
     "Current Ideas/The Coaliton.md",
     "Current Ideas/Gnoscientia.md",
     "Current Ideas/Asperod.md",
@@ -96,7 +97,6 @@
     "Current Ideas/The Knights.md",
     "Current Ideas/The Threat.md",
     "Untitled.md",
-    "Coalition.md",
-    "threat.md"
+    "Coalition.md"
   ]
 }
