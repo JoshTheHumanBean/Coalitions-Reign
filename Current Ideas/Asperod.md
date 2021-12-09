@@ -1,3 +1,7 @@
+
+---
+tags: [`Cheese`]
+---
 # The World
 
 ---
