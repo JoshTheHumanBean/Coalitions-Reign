@@ -6,5 +6,4 @@ alises: TheRealm,
 
 ---
 ##### Ideas
-
-The name of the world/plane that the Coalition resides in 
+- The name of the world/plane that the Coalition resides in 
