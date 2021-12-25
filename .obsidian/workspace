@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "Current Ideas/Asperod.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         },
         "group": "b4a4a4a25ccac1c5"
@@ -127,12 +128,12 @@
   "lastOpenFiles": [
     "Current Ideas/Asperod.md",
     "Current Ideas/Gnoscientia.md",
-    "Current Ideas/Warfare.md",
-    "Current Ideas/The Coaliton.md",
     "Current Ideas/Technology.md",
-    "README.md",
-    "Current Ideas/The Knights.md",
     "Current Ideas/The Threat.md",
+    "Current Ideas/The Knights.md",
+    "Current Ideas/The Coaliton.md",
+    "Current Ideas/Warfare.md",
+    "README.md",
     "Untitled.md",
     "Coalition.md"
   ]
