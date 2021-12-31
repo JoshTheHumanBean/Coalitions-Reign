@@ -6,10 +6,11 @@
       {
         "id": "19f055db01c6c8b6",
         "type": "leaf",
+        "dimension": 50.695825049701796,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Current Ideas/Asperod.md",
+            "file": "Current Ideas/Magic.md",
             "mode": "source",
             "source": false
           }
@@ -19,10 +20,11 @@
       {
         "id": "f9b88cd9dbf59a0a",
         "type": "leaf",
+        "dimension": 49.30417495029821,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Current Ideas/Asperod.md",
+            "file": "Current Ideas/Magic.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current Ideas/Asperod.md",
+                "file": "Current Ideas/Magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +128,15 @@
   },
   "active": "19f055db01c6c8b6",
   "lastOpenFiles": [
-    "Current Ideas/Asperod.md",
+    "Current Ideas/Magic.md",
     "Current Ideas/Gnoscientia.md",
     "Current Ideas/Technology.md",
+    "Current Ideas/Warfare.md",
+    "Current Ideas/Asperod.md",
     "Current Ideas/The Threat.md",
     "Current Ideas/The Knights.md",
     "Current Ideas/The Coaliton.md",
-    "Current Ideas/Warfare.md",
     "README.md",
-    "Untitled.md",
-    "Coalition.md"
+    "Untitled.md"
   ]
 }
