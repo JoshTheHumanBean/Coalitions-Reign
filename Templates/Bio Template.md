@@ -2,7 +2,7 @@
 aliases:
 tags: [bio]
 ---
-# Emery Ravenhurst
+# {{title}}
 
 **Category** | **Info**
 :------------|------------------:

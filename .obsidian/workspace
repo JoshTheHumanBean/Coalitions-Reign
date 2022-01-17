@@ -4,51 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3290cd028f67dc03",
+        "id": "d0fe35cc47939afa",
         "type": "leaf",
-        "dimension": 59.5427435387674,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Knights.md",
+            "file": "Characters/Emery Ravenhurst.md",
             "mode": "source",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "f9b88cd9dbf59a0a",
-        "type": "leaf",
-        "dimension": 40.4572564612326,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "The Knights.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": false,
-              "colorGroups": [],
-              "collapse-display": false,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1.4019828977761009,
-              "close": true
-            }
           }
         }
       }
@@ -106,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Knights.md",
+                "file": "Characters/Emery Ravenhurst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,11 +87,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3290cd028f67dc03",
+  "active": "d0fe35cc47939afa",
   "lastOpenFiles": [
+    "Characters/Emery Ravenhurst.md",
     "The Knights.md",
     "Magic.md",
-    "Characters/Emery Ravenhurst.md",
     "Untitled.md",
     "Places/Asperod.md",
     "Entities/The Threat.md",
