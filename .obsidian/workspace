@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Asperod.md",
+            "file": "Magic.md",
             "mode": "source",
             "source": false
           }
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Asperod.md",
+            "file": "Magic.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asperod.md",
+                "file": "Magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,13 +126,13 @@
   },
   "active": "3290cd028f67dc03",
   "lastOpenFiles": [
+    "Magic.md",
     "Asperod.md",
     "The Threat.md",
     "The Knights.md",
     "The Coaliton.md",
     "Technology.md",
     "Cogniscientia.md",
-    "Magic.md",
     "README.md",
     "Warfare.md",
     "Untitled.md"
