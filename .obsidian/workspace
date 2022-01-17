@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Magic.md",
+            "file": "The Knights.md",
             "mode": "source",
             "source": false
           }
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Magic.md",
+            "file": "The Knights.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -47,7 +47,7 @@
               "linkStrength": 1,
               "linkDistance": 250,
               "scale": 1.4019828977761009,
-              "close": false
+              "close": true
             }
           }
         }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic.md",
+                "file": "The Knights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +126,15 @@
   },
   "active": "3290cd028f67dc03",
   "lastOpenFiles": [
-    "Magic.md",
-    "Asperod.md",
-    "The Threat.md",
     "The Knights.md",
+    "Magic.md",
+    "Characters/Emery Ravenhurst.md",
+    "Untitled.md",
+    "Places/Asperod.md",
+    "Entities/The Threat.md",
     "The Coaliton.md",
     "Technology.md",
-    "Cogniscientia.md",
-    "README.md",
-    "Warfare.md",
-    "Untitled.md"
+    "Concepts/Cogniscientia.md",
+    "README.md"
   ]
 }
