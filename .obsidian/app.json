@@ -3,5 +3,6 @@
   "foldHeading": true,
   "foldIndent": true,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "promptDelete": false
 }

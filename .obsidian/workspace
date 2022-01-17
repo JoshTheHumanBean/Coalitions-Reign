@@ -4,27 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "19f055db01c6c8b6",
+        "id": "3290cd028f67dc03",
         "type": "leaf",
-        "dimension": 50.695825049701796,
+        "dimension": 59.5427435387674,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Current Ideas/Magic.md",
+            "file": "Asperod.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "b4a4a4a25ccac1c5"
+        }
       },
       {
         "id": "f9b88cd9dbf59a0a",
         "type": "leaf",
-        "dimension": 49.30417495029821,
+        "dimension": 40.4572564612326,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Current Ideas/Magic.md",
+            "file": "Asperod.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -51,8 +50,7 @@
               "close": false
             }
           }
-        },
-        "group": "b4a4a4a25ccac1c5"
+        }
       }
     ],
     "direction": "vertical"
@@ -108,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current Ideas/Magic.md",
+                "file": "Asperod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "19f055db01c6c8b6",
+  "active": "3290cd028f67dc03",
   "lastOpenFiles": [
-    "Current Ideas/Magic.md",
-    "Current Ideas/Gnoscientia.md",
-    "Current Ideas/Technology.md",
-    "Current Ideas/Warfare.md",
-    "Current Ideas/Asperod.md",
-    "Current Ideas/The Threat.md",
-    "Current Ideas/The Knights.md",
-    "Current Ideas/The Coaliton.md",
+    "Asperod.md",
+    "The Threat.md",
+    "The Knights.md",
+    "The Coaliton.md",
+    "Technology.md",
+    "Cogniscientia.md",
+    "Magic.md",
     "README.md",
+    "Warfare.md",
     "Untitled.md"
   ]
 }
