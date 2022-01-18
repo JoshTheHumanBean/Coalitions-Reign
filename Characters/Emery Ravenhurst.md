@@ -6,7 +6,7 @@ tags: [bio]
 
 **Category** | **Info**
 :------------|------------------:
-**Full Name** | `null`
+**Full Name** | Emery Corvus Ravenhurst
 **Date of Birth** | `null`
 **Nationality** | `null`
 **Birthplace** | `null`
@@ -14,14 +14,7 @@ tags: [bio]
 **Pronouns** | `null`
 **Aliases** | `null`
 **Relationships** | `null`
-**Interests**| `null`
-**Religious Affiliation** | `null`
-**Links** | `null`
+**Affiliations**| `null`
+**Religion** | `null`
 
-### How we met
-
-### Significant Events
-
-### My thoughts regarding them
-
-### Extra notes
+### Early Life

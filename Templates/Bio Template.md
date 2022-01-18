@@ -16,12 +16,5 @@ tags: [bio]
 **Relationships** | `null`
 **Interests**| `null`
 **Religious Affiliation** | `null`
-**Links** | `null`
 
-### How we met
-
-### Significant Events
-
-### My thoughts regarding them
-
-### Extra notes
+### Early Life
