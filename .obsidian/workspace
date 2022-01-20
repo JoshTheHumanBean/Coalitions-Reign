@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Emery Ravenhurst.md",
+            "file": "Concepts/Cogniscientia.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Emery Ravenhurst.md",
+                "file": "Concepts/Cogniscientia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d0fe35cc47939afa",
   "lastOpenFiles": [
+    "Concepts/Cogniscientia.md",
     "Characters/Emery Ravenhurst.md",
     "Templates/Bio Template.md",
-    "The Knights.md",
-    "Magic.md",
+    "Entities/The Knights.md",
+    "Concepts/Magic.md",
     "Untitled.md",
     "Places/Asperod.md",
     "Entities/The Threat.md",
-    "The Coaliton.md",
-    "Technology.md",
-    "Concepts/Cogniscientia.md"
+    "Entities/The Coaliton.md",
+    "Concepts/Technology.md"
   ]
 }
