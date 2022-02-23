@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Summary.md",
+            "file": "Entities/Legion of Knights.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary.md",
+                "file": "Entities/Legion of Knights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,14 +116,14 @@
   },
   "active": "d0fe35cc47939afa",
   "lastOpenFiles": [
+    "Entities/Legion of Knights.md",
+    "Entities/The Threat.md",
     "Summary.md",
     "Templates/Character Template.md",
     "Places/Asperod.md",
     "Places/The Continent.md",
-    "Entities/Legion of Knights.md",
     "Entities/The Coaliton.md",
     "NPCs/Emery Ravenhurst.md",
-    "Entities/The Threat.md",
     "PCs/Greggory Heffley.md",
     "Concepts/Warfare.md"
   ]
