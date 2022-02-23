@@ -1,1 +1,1 @@
-The world of Orakoz is an ancient one. Long ago, there were 9 different nations on the continent.
+The world of Orakoz is an ancient one. Long ago, there were 9 different nations on [[The Continent]]. One day, a mysterious [[The Threat|force]] from beyond the land threatned to destroy their very existence. So to help 
