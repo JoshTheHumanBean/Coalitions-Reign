@@ -2,6 +2,16 @@
 aliases:
 tags: [character]
 ---
+
+```statblock
+monster: Human Wizard
+
+```
+
+
+
+
+
 # {{title}}
 
 **Category** | **Info**
