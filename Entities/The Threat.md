@@ -1,3 +1,7 @@
+---
+tags: [entity]
+aliases [Death]
+---
 # TBD External Threat
 
 ---

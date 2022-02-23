@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#entity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,6 +95,17 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "926bbd4716dd1372",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
@@ -106,14 +117,14 @@
   "active": "d0fe35cc47939afa",
   "lastOpenFiles": [
     "Summary.md",
-    "Templates/Entity Template.md",
-    "Places/The Continent.md",
-    "Concepts/Cogniscientia.md",
+    "Templates/Character Template.md",
     "Places/Asperod.md",
+    "Places/The Continent.md",
+    "Entities/Legion of Knights.md",
+    "Entities/The Coaliton.md",
     "NPCs/Emery Ravenhurst.md",
     "Entities/The Threat.md",
-    "Entities/The Coaliton.md",
-    "Concepts/Warfare.md",
-    "Concepts/Magic.md"
+    "PCs/Greggory Heffley.md",
+    "Concepts/Warfare.md"
   ]
 }
