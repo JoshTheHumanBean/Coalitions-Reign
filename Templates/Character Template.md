@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: [bio]
+tags: [character]
 ---
 # {{title}}
 
