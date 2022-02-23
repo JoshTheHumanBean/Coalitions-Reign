@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Entities/The Threat.md",
+            "file": "Templates/Character Bio Template.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entities/The Threat.md",
+                "file": "Templates/Character Bio Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d0fe35cc47939afa",
   "lastOpenFiles": [
+    "Templates/Character Bio Template.md",
+    "Templates/Character Sheet Template.md",
+    "Templates/Entity Template.md",
+    "Characters/Emery Ravenhurst.md",
     "Entities/The Threat.md",
     "Entities/The Knights.md",
     "Concepts/Warfare.md",
     "Concepts/Technology.md",
     "Concepts/Magic.md",
-    "Concepts/Cogniscientia.md",
-    "Characters/Emery Ravenhurst.md",
-    "Entities/The Coaliton.md",
-    "Templates/Bio Template.md",
-    "Untitled.md"
+    "Concepts/Cogniscientia.md"
   ]
 }
