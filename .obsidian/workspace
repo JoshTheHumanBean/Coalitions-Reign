@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Entities/Legion of Knights.md",
+            "file": "Summary.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entities/Legion of Knights.md",
+                "file": "Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +116,9 @@
   },
   "active": "d0fe35cc47939afa",
   "lastOpenFiles": [
+    "Summary.md",
     "Entities/Legion of Knights.md",
     "Entities/The Threat.md",
-    "Summary.md",
     "Templates/Character Template.md",
     "Places/Asperod.md",
     "Places/The Continent.md",
