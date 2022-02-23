@@ -79,6 +79,22 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "2bb4377e248bb448",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "e4b5869d5e347c0e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ]
       }

@@ -5,5 +5,8 @@
   "obsidian-timelines",
   "obsidian-git",
   "obsidian-leaflet-plugin",
-  "obsidian-discordrpc"
+  "obsidian-discordrpc",
+  "obsidian-dice-roller",
+  "obsidian-banners",
+  "initiative-tracker"
 ]
