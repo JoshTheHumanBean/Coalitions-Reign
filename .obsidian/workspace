@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Character Template.md",
+            "file": "Campaigns/Dimsum and Dumplings.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Character Template.md",
+                "file": "Campaigns/Dimsum and Dumplings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -105,15 +106,15 @@
   },
   "active": "d0fe35cc47939afa",
   "lastOpenFiles": [
+    "Campaigns/Dimsum and Dumplings.md",
+    "Concepts/Cogniscientia.md",
     "Templates/Character Template.md",
     "PCs/Greggory Heffley.md",
     "PCs/Eun-Seong.md",
-    "Concepts/Cogniscientia.md",
     "Templates/Entity Template.md",
     "NPCs/Emery Ravenhurst.md",
     "Entities/The Knights.md",
     "Templates/Character Sheet Template.md",
-    "Entities/The Threat.md",
-    "Concepts/Warfare.md"
+    "Entities/The Threat.md"
   ]
 }
