@@ -1,1 +1,1 @@
-The world of Asperod is an ancient one
+The world of Orakoz is an ancient one. Long ago, there were 9 different nations on the continent.
