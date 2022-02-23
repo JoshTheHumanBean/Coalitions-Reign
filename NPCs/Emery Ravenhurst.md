@@ -2,7 +2,6 @@
 aliases:
 tags: [character]
 ---
-
 ```statblock
 name: Emery Ravenhurst
 size: blank
