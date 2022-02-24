@@ -4,6 +4,7 @@ tags: [character]
 ---
 
 ```statblock
+
 name: Greggory Heffley
 size: Medium
 type: Human
@@ -17,22 +18,26 @@ stats: [13, 8, 16, 10, 11, 16]
 saves:
   - strength: 1
   - dexterity: -1
-  - constitution: 16
-  - intelligence: 10
-  - wisdom: 11
-  - charisma: 16
+  - constitution: 6
+  - intelligence: 0
+  - wisdom: 0
+  - charisma: 6
 skillsaves:
   - arcane: 2
   - history: 2
   - investigation: 2
+  - religion: 2
+  - insight: 2
 senses: Passive Perception +5, Passive Investigation 5
 languages: Common, Radho
 traits:
+  - name: cheese
+  - desc: cheese
 ```
 
 
 
-
+Quarterstaff
 
 # Background
 **Category** | **Info**
