@@ -1,1 +1,2 @@
-- The Knights are a state military group à la the alchemists from FMA. They mix martial, technological, and magical prowess to become a 
+- The Knights are a state military group à la the alchemists from FMA. They mix martial, technological, and magical prowess to become a formidable force against any threat. They often specialize in high coordination and maneuvarability, like Spartans and Pilots. Although there are many, they keep a sense of individualism, kinda like the Jedi.
+- Magic system has to be pretty flexible, since I want to use it as an interesting writing tool but also have it be adaptable to the 5e spellcasting rules.  
