@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas.md",
+            "file": "PCs/Greggory Heffley.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas.md",
+                "file": "PCs/Greggory Heffley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "d0fe35cc47939afa",
   "lastOpenFiles": [
+    "PCs/Greggory Heffley.md",
     "Ideas.md",
     "Places/The Continent.md",
     "Concepts/Technology.md",
@@ -124,7 +125,6 @@
     "Summary.md",
     "Templates/Character Template.md",
     "Places/Orakoz.md",
-    "Entities/Legion of Knights.md",
-    "Entities/The Coaliton.md"
+    "Entities/Legion of Knights.md"
   ]
 }
