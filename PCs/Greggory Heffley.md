@@ -12,7 +12,7 @@ alignment: blank
 ac: 0
 hp: 0
 hit_dice: 0d0
-speed: 0 ft., fly 0 ft., swim 0 ft.
+speed: 30 ft
 stats: [13, 8, 16, 10, 11, 16]
 saves:
   - strength: 1
@@ -25,21 +25,15 @@ skillsaves:
   - arcane: 2
   - history: 2
   - investigation: 2
-senses: Passive Perception 0
+senses: Passive Perception +5, Passive Investigation 5
 languages: Common, Radho
-cr: 0
 traits:
-  - name: Observant
-    desc: +5 passive perception (wisdom) and investigation (intelligence), able to read lips
-  - name: Tool Proficiencies
-    desc: Flute, Vehicles (Land) 
-actions:
-  - name: blank
-    desc: blank
-reactions:
-  - name: blank
-    desc: blank
 ```
+
+
+
+
+
 # Background
 **Category** | **Info**
 :------------|------------------:
