@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Summary.md",
+            "file": "Ideas.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary.md",
+                "file": "Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "d0fe35cc47939afa",
   "lastOpenFiles": [
+    "Ideas.md",
+    "Entities/The Threat.md",
     "Summary.md",
     "Templates/Character Template.md",
     "Places/Orakoz.md",
     "Entities/Legion of Knights.md",
-    "Entities/The Threat.md",
     "Places/The Continent.md",
     "Entities/The Coaliton.md",
     "NPCs/Emery Ravenhurst.md",
-    "PCs/Greggory Heffley.md",
-    "Concepts/Warfare.md"
+    "PCs/Greggory Heffley.md"
   ]
 }

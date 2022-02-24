@@ -1,0 +1,1 @@
+- The Knights are a state military group à la the alchemists from FMA. They mix martial, technological, and magical prowess to become a 
