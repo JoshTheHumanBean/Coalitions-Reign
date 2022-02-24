@@ -22,7 +22,7 @@ skillsaves:
   - animal handling: 3
   - history: 2
   - nature: 2
-  - d
+  - survival: 3
 senses: Passive Perception 0
 languages: Common
 cr: 4
@@ -34,7 +34,9 @@ traits:
   - name: Weapon Proficiencies
     desc: Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords 
   - name: Tool Proficiencies
-    desc: null
+    desc: Flute, Guitar, Lyre
+  - name: Equipment
+    desc: Quarterstaff, 2 Daggers, Arcane Focus, Dungoneer's Pack  	
 actions:
   - name: Weapon
     desc: "Weapon Type, Attack Bonus, damage"
