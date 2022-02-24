@@ -4,7 +4,6 @@ tags: [character]
 ---
 
 ```statblock
-
 name: Greggory Heffley
 size: Medium
 type: Human
@@ -43,11 +42,13 @@ traits:
 actions:
   - name: Quarterstaff
     desc: "Simple Versatile Melee Weapon, +3, 1d6+1, Versatile (1d8+1)"
+  - name: Dagger
+    desc: "Simple Finesse Light Thrown (Range 20/60) Melee Weapon, +1, 1d4+1"
+spells: 
+  - Greg Heffley is a 1st spellcaster. His spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). The archmage can cast disguise self and invisibility at will and has the following wizard spells prepared
+  - Cantrips (at will): gay ray
+  - 1st level (2 slots): gay ray
 ```
-
-
-
-Quarterstaff
 
 # Background
 **Category** | **Info**
