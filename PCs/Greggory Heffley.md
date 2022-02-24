@@ -38,9 +38,11 @@ traits:
     desc: Flute, Vehicles (Land)
   - name: Weapon Proficiencies
     desc: Daggers, Darts, Slings, Quarterstaffs, Light Crossbows	
+  - name: Equipment
+    desc: Quarterstaff, 2 Daggers, Arcane Focus, Dungoneer's Pack  		
 actions:
-  - name: blank
-    desc: "blank"
+  - name: Quarterstaff
+    desc: "Simple Versatile Melee Weapon, +3, 1d6+1, Versatile (1d8+1)"
 ```
 
 
