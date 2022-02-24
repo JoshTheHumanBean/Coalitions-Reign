@@ -4,9 +4,9 @@ tags: [character]
 ---
 
 ```statblock
-name: Name
-size: Size
-type: Type
+name: Aphrodite
+size: Medium
+type: Eladrin
 ac: 0
 hp: 0
 hit_dice:

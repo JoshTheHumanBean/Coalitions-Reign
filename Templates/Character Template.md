@@ -4,36 +4,34 @@ tags: [character]
 ---
 
 ```statblock
-name: blank
-size: blank
-type: blank
-subtype: blank
-alignment: blank
+name: Name
+size: Size
+type: Type
 ac: 0
 hp: 0
-hit_dice: 0d0
-speed: 0 ft., fly 0 ft., swim 0 ft.
-stats: [0, 0, 0, 0, 0, 0]
+hit_dice:
+speed: 30 ft
+stats: [10, 10, 10, 10, 10, 10]
 saves:
+  - strength: 0
   - dexterity: 0
   - constitution: 0
+  - intelligence: 0
   - wisdom: 0
   - charisma: 0
 skillsaves:
-  - perception: 0
-  - stealth: 0
+  - persuasion: 0
 senses: Passive Perception 0
 languages: Common
-cr: 0
+cr: 4
 traits:
-  - name: blank
-    desc: blank
+  - name: Trait
+    desc: Description
 actions:
-  - name: blank
-    desc: blank
-reactions:
-  - name: blank
-    desc: blank
+  - name: Weapon
+    desc: "Weapon Type, Attack Bonus, damage"
+spells: 
+  - Your mom is a 1st level spellcaster
 ```
 # Background
 **Category** | **Info**

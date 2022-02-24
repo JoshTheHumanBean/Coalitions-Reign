@@ -6,7 +6,7 @@ tags: [character]
 ```statblock
 name: Greggory Heffley
 size: Medium
-type: Human
+type: Human Sorcerer
 ac: 9
 hp: 11
 hit_dice:
@@ -51,18 +51,3 @@ spells:
   - Cantrips (at will): Minor Illusion, Mending, Mage Hand, Message
   - 1st level (2 slots): Burning Hands, Shield
 ```
-# Background
-**Category** | **Info**
-:------------|------------------:
-**Full Name** | `null`
-**Date of Birth** | `null`
-**Race** | `null`
-**Birthplace** | `null`
-**Gender** | `null`
-**Pronouns** | `null`
-**Aliases** | `null`
-**Relationships** | `null`
-**Interests**| `null`
-**Affiliations** | `null`
-
-### Introduction 
