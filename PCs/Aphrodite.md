@@ -6,7 +6,7 @@ tags: [character]
 name: Aphrodite
 size: Medium
 type: Eladrin Bard
-ac: 11
+ac: 14
 hp: 9
 speed: 30 ft
 stats: [12, 12, 12, 10, 12, 16]
@@ -34,12 +34,14 @@ traits:
   - name: Weapon Proficiencies
     desc: Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords 
   - name: Tool Proficiencies
-    desc: Flute, Guitar, Lyre
+    desc: Flute, Lute, Lyre
   - name: Equipment
-    desc: Quarterstaff, 2 Daggers, Arcane Focus, Dungoneer's Pack  	
+    desc: Longsword, Entertainer's Pack, Kazoo, Leather Armor, Dagger  	
 actions:
-  - name: Weapon
-    desc: "Weapon Type, Attack Bonus, damage"
+  - name: Dagger
+    desc: "Simple Finesse Light Thrown (Range 20/60) Melee Weapon, +1, 1d4+1"
+  - name: Longsword
+	desc: "Martial Versatile Melee Slashing Weapon, +3, 1d8+1 Versatile(1d10+1)"
   - name: Fey Step
     desc: "As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a short or long rest. When you reach 3rd level, your Fey Step gains an additional effect based on your season; if the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Charisma modifier. The effect is that immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be charmed by you for 1 minute, or until you or your companions deal any damage to it"
 spells: 

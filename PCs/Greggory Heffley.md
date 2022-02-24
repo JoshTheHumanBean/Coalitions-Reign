@@ -41,7 +41,7 @@ traits:
     desc: Starting when you choose this origin at 1st level, your spellcasting can unleash surges of untamed magic. Once per turn, the DM can have you roll a d20 immediately after you cast a sorcerer spell of 1st level or higher. If you roll a 1, roll on the Wild Magic Surge table to create a magical effect. If that effect is a spell, it is too wild to be affected by your Metamagic, and if it normally requires concentration, it doesn't require concentration in this case; the spell lasts for its full duration.
 actions:
   - name: Quarterstaff
-    desc: "Simple Versatile Melee Weapon, +3, 1d6+1, Versatile (1d8+1)"
+    desc: "Simple Versatile Melee Bludgeoning Weapon, +3, 1d6+1, Versatile (1d8+1)"
   - name: Dagger
     desc: "Simple Finesse Light Thrown (Range 20/60) Melee Weapon, +1, 1d4+1"
   - name: Tides of Chaos
