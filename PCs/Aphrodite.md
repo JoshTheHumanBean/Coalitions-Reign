@@ -12,19 +12,29 @@ speed: 30 ft
 stats: [12, 12, 12, 10, 12, 16]
 saves:
   - strength: 1
-  - dexterity: 1
+  - dexterity: 3
   - constitution: 1
   - intelligence: 0
   - wisdom: 1
-  - charisma: 2
+  - charisma: 5
 skillsaves:
-  - persuasion: 0
+  - acrobatics: 5
+  - animal handling: 3
+  - history: 2
+  - nature: 2
+  - d
 senses: Passive Perception 0
 languages: Common
 cr: 4
 traits:
   - name: Eladrin Autumn
-    desc: 'There are no simple meals, only lavish feasts', 'You trust others without thought'
+    desc: There are no simple meals, only lavish feasts, You trust others without thought
+  - name: Armor Proficiencies
+    desc: Light Armor
+  - name: Weapon Proficiencies
+    desc: Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords 
+  - name: Tool Proficiencies
+    desc: null
 actions:
   - name: Weapon
     desc: "Weapon Type, Attack Bonus, damage"

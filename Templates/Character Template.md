@@ -27,6 +27,12 @@ cr: 4
 traits:
   - name: Trait
     desc: Description
+  - name: Armor Proficiencies
+    desc: null
+  - name: Weapon Proficiencies
+    desc: null
+  - name: Tool Proficiencies
+    desc: null
 actions:
   - name: Weapon
     desc: "Weapon Type, Attack Bonus, damage"
