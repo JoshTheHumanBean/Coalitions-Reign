@@ -7,11 +7,9 @@ tags: [character]
 name: Greggory Heffley
 size: Medium
 type: Human
-subtype: blank
-alignment: blank
-ac: 0
-hp: 0
-hit_dice: 0d0
+ac: 9
+hp: 11
+hit_dice: 1d6
 speed: 30 ft
 stats: [13, 8, 16, 10, 11, 16]
 saves:
@@ -50,8 +48,8 @@ actions:
     desc: "Simple Finesse Light Thrown (Range 20/60) Melee Weapon, +1, 1d4+1"
 spells: 
   - Greg Heffley is a 1st spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks).
-  - Cantrips (at will): gay ray
-  - 1st level (2 slots): gay ray, beam of yass
+  - Cantrips (at will): Minor Illusion, Mending, Mage Hand, Message
+  - 1st level (2 slots): Burning Hands, Shield
 ```
 # Background
 **Category** | **Info**

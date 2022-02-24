@@ -108,12 +108,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 286,
-    "collapsed": true
+    "width": 286
   },
   "active": "d0fe35cc47939afa",
   "lastOpenFiles": [
