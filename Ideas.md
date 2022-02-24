@@ -6,4 +6,4 @@
 - That brings me to another point. Communication is also a huge part of how magic is expressed. They way you express and communicate your will influences the kind of magic you do. Maybe you draw runes in the air. Maybe you focus it into somatic movements passed down from mentor to student. Whatever you do, it influences they way your magic looks and acts.
 - I have an idea for a mage who's based in music. They have the rare ability to interpret the vibrational frequencies of the arcane, and think of magic in terms of consonance and dissonance. 
 - I have an idea for a "Lost Isles Arc". Inspired by the Age of Exploration from Dr. STONE, this will focus on the adventuring party embarking on an expidition to a remote archepelago in search of some McGuffin. They'll also be racing to find it against one or more opposing factions; whether or not they're malicious or simply other explorers they're in competition with is unclear right now.
-- 
+- Three different languages other than Common, each associated with a certain region of the Continent: Tzike, Radho, and Yurmam. 

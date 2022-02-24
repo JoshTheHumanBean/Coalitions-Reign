@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PCs/Greggory Heffley.md",
+            "file": "Ideas.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCs/Greggory Heffley.md",
+                "file": "Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,8 +116,8 @@
   },
   "active": "d0fe35cc47939afa",
   "lastOpenFiles": [
-    "PCs/Greggory Heffley.md",
     "Ideas.md",
+    "PCs/Greggory Heffley.md",
     "Places/The Continent.md",
     "Concepts/Technology.md",
     "Concepts/Magic.md",
