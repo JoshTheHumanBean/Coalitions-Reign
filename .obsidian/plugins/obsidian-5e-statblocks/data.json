@@ -1,0 +1,16 @@
+{
+  "monsters": [],
+  "layouts": [],
+  "default": "Basic Fate Core Layout",
+  "useDice": true,
+  "renderDice": false,
+  "export": true,
+  "showAdvanced": true,
+  "version": {
+    "major": 2,
+    "minor": 12,
+    "patch": 1
+  },
+  "path": "/",
+  "autoParse": false
+}

@@ -30,9 +30,17 @@ skillsaves:
   - insight: 2
 senses: Passive Perception +5, Passive Investigation 5
 languages: Common, Radho
+cr: 4
 traits:
-  - name: cheese
-  - desc: cheese
+  - name: Observant
+    desc: +5 passive perception (wisdom) and investigation (intelligence), able to read lips
+  - name: Tool Proficiencies
+    desc: Flute, Vehicles (Land)
+  - name: Weapon Proficiencies
+    desc: Daggers, Darts, Slings, Quarterstaffs, Light Crossbows	
+actions:
+  - name: blank
+    desc: "blank"
 ```
 
 
