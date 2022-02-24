@@ -9,7 +9,7 @@ size: Medium
 type: Human
 ac: 9
 hp: 11
-hit_dice: 1d6
+hit_dice:
 speed: 30 ft
 stats: [13, 8, 16, 10, 11, 16]
 saves:
