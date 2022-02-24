@@ -6,7 +6,7 @@ tags: [character]
 ```statblock
 name: Aphrodite
 size: Medium
-type: Eladrin
+type: Eladrin Bard
 ac: 0
 hp: 0
 hit_dice:
