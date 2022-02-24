@@ -15,19 +15,24 @@ hit_dice: 0d0
 speed: 0 ft., fly 0 ft., swim 0 ft.
 stats: [13, 8, 16, 10, 11, 16]
 saves:
-  - dexterity: 0
-  - constitution: 0
-  - wisdom: 0
-  - charisma: 0
+  - strength: 1
+  - dexterity: -1
+  - constitution: 16
+  - intelligence: 10
+  - wisdom: 11
+  - charisma: 16
 skillsaves:
-  - perception: 0
-  - stealth: 0
+  - arcane: 2
+  - history: 2
+  - investigation: 2
 senses: Passive Perception 0
-languages: Common
+languages: Common, Radho
 cr: 0
 traits:
-  - name: blank
-    desc: blank
+  - name: Observant
+    desc: +5 passive perception (wisdom) and investigation (intelligence), able to read lips
+  - name: Tool Proficiencies
+    desc: Flute, Vehicles (Land) 
 actions:
   - name: blank
     desc: blank
