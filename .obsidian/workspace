@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PCs/Aphrodite.md",
+            "file": "PCs/Greggory Heffley.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCs/Aphrodite.md",
+                "file": "PCs/Greggory Heffley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +117,8 @@
   },
   "active": "d0fe35cc47939afa",
   "lastOpenFiles": [
-    "PCs/Aphrodite.md",
     "PCs/Greggory Heffley.md",
+    "PCs/Aphrodite.md",
     "PCs/Eun-Seong.md",
     "Places/Orakoz.md",
     "Templates/Character Template.md",

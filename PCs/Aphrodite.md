@@ -28,7 +28,7 @@ languages: Common
 cr: 4
 traits:
   - name: Eladrin Autumn
-    desc: There are no simple meals, only lavish feasts, You trust others without thought
+    desc: 'There are no simple meals, only lavish feasts, You trust others without thought'
   - name: Armor Proficiencies
     desc: Light Armor
   - name: Weapon Proficiencies
