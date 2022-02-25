@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PCs/Greggory Heffley.md",
+            "file": "Summary.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCs/Greggory Heffley.md",
+                "file": "Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
   },
   "active": "d0fe35cc47939afa",
   "lastOpenFiles": [
-    "PCs/Greggory Heffley.md",
+    "Summary.md",
+    "Templates/Entity Template.md",
     "PCs/Aphrodite.md",
+    "PCs/Greggory Heffley.md",
     "PCs/Eun-Seong.md",
+    "Places/The Continent.md",
     "Places/Orakoz.md",
     "Templates/Character Template.md",
-    "Templates/Entity Template.md",
-    "Summary.md",
     "Ideas.md",
-    "Places/The Continent.md",
     "Concepts/Technology.md"
   ]
 }
