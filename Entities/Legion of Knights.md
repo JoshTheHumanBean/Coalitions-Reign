@@ -3,7 +3,7 @@ tags: [entity]
 alises: [Legion, Knights] 
 ---
 # Legion of Knights
-Some six centuries ago, the [[The Coaliton]] was threatened by a fierce organized [[The Threat|threat]] from beyond the continent. To help combat this force, and any future ones, the Legion of Knights was formed. Combining the best the coalition had to offer, from mages and scientists to legendary warriors and master strategists, the Legion was able to succesfuly fight off the threat. 
+Some six centuries ago, the [[The Coalition]] was threatened by a fierce organized [[The Threat|threat]] from beyond the continent. To help combat this force, and any future ones, the Legion of Knights was formed. Combining the best the coalition had to offer, from mages and scientists to legendary warriors and master strategists, the Legion was able to succesfuly fight off the threat. 
 
 Combining 
 

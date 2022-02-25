@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Summary.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -118,14 +118,14 @@
   "active": "d0fe35cc47939afa",
   "lastOpenFiles": [
     "Summary.md",
+    "Entities/The Coalition.md",
+    "Ideas.md",
     "Templates/Entity Template.md",
     "PCs/Aphrodite.md",
     "PCs/Greggory Heffley.md",
     "PCs/Eun-Seong.md",
     "Places/The Continent.md",
     "Places/Orakoz.md",
-    "Templates/Character Template.md",
-    "Ideas.md",
-    "Concepts/Technology.md"
+    "Templates/Character Template.md"
   ]
 }
