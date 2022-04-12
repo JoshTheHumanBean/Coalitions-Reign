@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: [character]
+tags: [player character]
 ---
 
 ```statblock

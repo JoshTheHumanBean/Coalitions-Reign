@@ -1,14 +1,5 @@
 {
-  "players": [
-    {
-      "note": "Greggory Heffley",
-      "path": "PCs/Greggory Heffley.md",
-      "name": "Greggory Heffley",
-      "modifier": -1,
-      "level": 1,
-      "player": true
-    }
-  ],
+  "players": [],
   "parties": [],
   "defaultParty": null,
   "homebrew": [],
@@ -82,8 +73,8 @@
   "canUseDiceRoll": false,
   "initiative": "1d20 + %mod%",
   "modifier": null,
-  "sync": false,
-  "leafletIntegration": false,
+  "sync": true,
+  "leafletIntegration": true,
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": null,

@@ -1,5 +1,0 @@
----
-aliases:
-tags: [character]
----
-

@@ -1,6 +1,6 @@
 ---
-tags: [place]
-alises: [The Realm] 
+tags: [location]
+alises: The Realm 
 ---
 # Orakoz
 

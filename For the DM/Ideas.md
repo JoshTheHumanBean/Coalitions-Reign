@@ -1,3 +1,7 @@
+---
+aliases:
+tags: [DM]
+---
 - The Knights are a state military group à la the alchemists from FMA. They mix martial, technological, and magical prowess to become a formidable force against any threat. They often specialize in high coordination and maneuvarability, like Spartans and Pilots. Although there are many, they keep a sense of individualism, kinda like the Jedi.
 - Magic system has to be pretty flexible, since I want to use it as an interesting writing tool but also have it be adaptable to the 5e spellcasting rules. Magic is simply another form of enacting your will on reality to shape it. The same is true with invention, music, combat, or anything else we do in life.  The stronger the will, the more nuanced the magic will be. This can be the explanation for upcasting spells. 
 - The ultimate form of countermagic will be the complete and total nullification of will. Other techniques focus on negating/containing/remedying the effects of the spells themselves. This however completely cuts off the victim from enacting their will on reality, basically rendering them in a state of limbo called the Silence of the Soul. Their consciousness is essentially distilled into its most purest form for a only a moment., but to the victim, it feels almost like an eternity.
@@ -8,3 +12,5 @@
 - I have an idea for a "Lost Isles Arc". Inspired by the Age of Exploration from Dr. STONE, this will focus on the adventuring party embarking on an expidition to a remote archepelago in search of some McGuffin. They'll also be racing to find it against one or more opposing factions; whether or not they're malicious or simply other explorers they're in competition with is unclear right now.
 - Three different languages other than Common, each associated with a certain region of the Continent: Tzike, Radho, and Yurmam. 
 - Radho is gonna be the latest nation to join the Coaliton, its annexation a true turning point in the Coalition's history. While most of Radho's people are content with being a part of the coaliton, there are still some seperatists 
+- Blackhats are high ranking Legion officers
+- The pinnacle of Emery's cosmolurgy magic is the creation of momentary singularities, points in space-time where any and all things in its path are instantly consumed and converted into pure energy, although most of this energy is lost beyond the event horizon. This is also an extremely gruelling process, as the energy needed can be lethal to the mages body and mind. It has only ever been done once in recorded history, by Apollo Silverlorn the Great

@@ -4,19 +4,97 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#campaign",
+      "color": {
+        "a": 1,
+        "rgb": 16770626
+      }
+    },
+    {
+      "query": "tag:#template",
+      "color": {
+        "a": 1,
+        "rgb": 3320874
+      }
+    },
+    {
+      "query": "tag:#non-player",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#player",
+      "color": {
+        "a": 1,
+        "rgb": 10220285
+      }
+    },
+    {
+      "query": "tag:#mission",
+      "color": {
+        "a": 1,
+        "rgb": 65437
+      }
+    },
+    {
+      "query": "tag:#DM",
+      "color": {
+        "a": 1,
+        "rgb": 6307985
+      }
+    },
+    {
+      "query": "tag:#location",
+      "color": {
+        "a": 1,
+        "rgb": 14906079
+      }
+    },
+    {
+      "query": "tag:#concept",
+      "color": {
+        "a": 1,
+        "rgb": 16630949
+      }
+    },
+    {
+      "query": "tag:#entity",
+      "color": {
+        "a": 1,
+        "rgb": 6888476
+      }
+    },
+    {
+      "query": "tag:#event",
+      "color": {
+        "a": 1,
+        "rgb": 5401056
+      }
+    },
+    {
+      "query": "tag:#session",
+      "color": {
+        "a": 1,
+        "rgb": 13338625
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.2375,
+  "lineSizeMultiplier": 1.35416666666667,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.0534979423868431,
+  "centerStrength": 0.607142857142857,
+  "repelStrength": 10.952380952381,
+  "linkStrength": 0.791666666666667,
+  "linkDistance": 262,
+  "scale": 0.5359795996225989,
   "close": true
 }

@@ -1,0 +1,5 @@
+---
+aliases:
+tags: [player character]
+---
+

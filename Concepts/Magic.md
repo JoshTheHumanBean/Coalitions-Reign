@@ -1,2 +1,6 @@
+---
+aliases:
+tags: [concept]
+---
 # Magic
 

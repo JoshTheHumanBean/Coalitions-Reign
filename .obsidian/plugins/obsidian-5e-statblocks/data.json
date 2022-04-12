@@ -1,110 +1,80 @@
 {
   "monsters": [
     [
-      "Greggory Heffley",
+      "Emery Ravenhurst",
       {
-        "name": "Greggory Heffley",
+        "name": "Emery Ravenhurst",
         "size": "Medium",
         "type": "Human",
-        "subtype": "blank",
-        "alignment": "blank",
-        "ac": 0,
-        "hp": 0,
-        "hit_dice": "0d0",
-        "speed": "30 ft",
+        "subtype": "Wizard",
+        "alignment": "Lawful Neutral",
+        "ac": 12,
+        "hp": 121,
+        "hit_dice": "22d8+22",
+        "speed": "30 ft.",
         "stats": [
-          13,
-          8,
-          16,
-          10,
-          11,
-          16
+          9,
+          14,
+          12,
+          17,
+          12,
+          11
         ],
         "saves": [
           {
-            "strength": 1
+            "dexterity": 0
           },
           {
-            "dexterity": -1
+            "constitution": 0
           },
           {
-            "constitution": 5
+            "intelligence": 7
           },
           {
-            "intelligence": 0
+            "wisdom": 5
           },
           {
-            "wisdom": 0
-          },
-          {
-            "charisma": 5
+            "charisma": 0
           }
         ],
         "skillsaves": [
           {
-            "arcane": 2
+            "Arcana": 7
           },
           {
-            "history": 2
-          },
-          {
-            "investigation": 2
-          },
-          {
-            "religion": 2
-          },
-          {
-            "insight": 2
+            "History": 7
           }
         ],
-        "senses": "Passive Perception +5, Passive Investigation 5",
-        "languages": "Common, Radho",
-        "cr": 4,
-        "traits": [
-          {
-            "name": "Observant",
-            "desc": "+5 passive perception (wisdom) and investigation (intelligence), able to read lips"
-          },
-          {
-            "name": "Tool Proficiencies",
-            "desc": "Flute, Vehicles (Land)"
-          },
-          {
-            "name": "Weapon Proficiencies",
-            "desc": "Daggers, Darts, Slings, Quarterstaffs, Light Crossbows"
-          },
-          {
-            "name": "Equipment",
-            "desc": "Quarterstaff, 2 Daggers, Arcane Focus, Dungoneer's Pack"
-          },
-          {
-            "name": "Wild Magic Surge",
-            "desc": "Starting when you choose this origin at 1st level, your spellcasting can unleash surges of untamed magic. Once per turn, the DM can have you roll a d20 immediately after you cast a sorcerer spell of 1st level or higher. If you roll a 1, roll on the Wild Magic Surge table to create a magical effect. If that effect is a spell, it is too wild to be affected by your Metamagic, and if it normally requires concentration, it doesn't require concentration in this case; the spell lasts for its full duration."
-          },
-          {
-            "name": "Tides of Chaos",
-            "desc": "Starting at 1st level, you can manipulate the forces of chance and chaos to gain advantage on one attack roll, ability check, or saving throw. Once you do so, you must finish a long rest before you can use this feature again. Any time before you regain the use of this feature, the DM can have you roll on the Wild Magic Surge table immediately after you cast a sorcerer spell of 1st level or higher. You then regain the use of this feature."
-          }
-        ],
+        "senses": "Passive Perception 11",
+        "languages": "Common",
+        "cr": 0,
         "actions": [
           {
-            "name": "Quarterstaff",
-            "desc": "Simple Versatile Melee Weapon, +3, 1d6+1, Versatile (1d8+1)"
+            "name": "Multiattack",
+            "desc": "Emery makes three Arcane Burst attacks."
           },
           {
-            "name": "Dagger",
-            "desc": "Simple Finesse Light Thrown (Range 20/60) Melee Weapon, +1, 1d4+1"
+            "name": "Arcane Burst",
+            "desc": "Melee or Ranged Spell Attack +7 to hit, reach 5 ft. or range 120 ft., one target. Hit 20 (3d10 + 3) force damage"
+          },
+          {
+            "name": "Sculpted Explosion (Recharge 4–6)",
+            "desc": "Emery can unleash a magical explosion of a particular damage type (cold, fire, lightning, or thunder). The magic erupts in a 20-foot-radius sphere centered on a point within 150 feet of the evoker. Each creature in that area must make a DC 15 Dexterity saving throw. The evoker can select up to three creatures it can see in the area to ignore the spell, as the evoker sculpts the spell's energy around them. On a failed save, a creature takes 40 (9d8) damage of the chosen type and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone."
           }
         ],
         "spells": [
-          "Greg Heffley is a 1st spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks).",
+          "Emery casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 15)",
           {
-            "Cantrips (at will)": "Minor Illusion, Mending, Mage Hand, Message"
+            "Cantrips (at will)": "Light, Mage Hand, Message, Prestidigitation"
           },
           {
-            "1st level (2 slots)": "Burning Hands, Shield"
+            "2/day each": "Resilient Sphere, Lightning Bolt, Mage Armor"
+          },
+          {
+            "1/day": "Sunbeam"
           }
         ],
+        "traits": [],
         "bonus_actions": [],
         "reactions": [],
         "legendary_actions": [],
@@ -116,12 +86,12 @@
   "layouts": [],
   "default": "Basic 5e Layout",
   "useDice": true,
-  "renderDice": false,
+  "renderDice": true,
   "export": true,
   "showAdvanced": true,
   "version": {
     "major": 2,
-    "minor": 12,
+    "minor": 14,
     "patch": 1
   },
   "path": "/",

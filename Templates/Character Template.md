@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: [character]
+tags: [template character]
 ---
 
 ```statblock
@@ -50,7 +50,7 @@ spells:
 **Pronouns** | `null`
 **Aliases** | `null`
 **Relationships** | `null`
-**Interests**| `null`
+**Occupation**| `null`
 **Affiliations** | `null`
 
-### Introduction 
+### Bio 

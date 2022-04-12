@@ -1,4 +1,5 @@
 ---
 aliases:
-tags: [entity]
+tags: [entity template]
 ---
+# {{title}}
