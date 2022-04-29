@@ -7,12 +7,8 @@
         "id": "edc6664934ab4274",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NPCs/Knights of the Coalition/General Alexandra Sunnea.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Knights of the Coalition/General Alexandra Sunnea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +119,7 @@
   },
   "active": "edc6664934ab4274",
   "lastOpenFiles": [
+    "Storylines/Side Quests/An Excersise in Futility.md",
     "NPCs/Knights of the Coalition/General Alexandra Sunnea.md",
     "NPCs/Knights of the Coalition/Emery Ravenhurst.md",
     "Campaigns/Bingus Club/PCs/Greggory Heffley.md",
@@ -132,7 +128,6 @@
     "Campaigns/Bingus Club/Sessions/Bingus Club Session 0.md",
     "Campaigns/Bingus Club/PCs/Eun-Seong.md",
     "Campaigns/Untitled.md",
-    "Campaigns/Bingus Club.md",
-    "Entities/Legion of Knights.md"
+    "Campaigns/Bingus Club.md"
   ]
 }
