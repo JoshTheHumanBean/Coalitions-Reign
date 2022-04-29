@@ -4,5 +4,6 @@
   "foldIndent": true,
   "legacyEditor": false,
   "livePreview": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "tabSize": 6
 }
