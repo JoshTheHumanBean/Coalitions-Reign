@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Events/Battle of Arrowhead Ridge.md",
+            "file": "For the DM/Summary.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Battle of Arrowhead Ridge.md",
+                "file": "For the DM/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
   },
   "active": "edc6664934ab4274",
   "lastOpenFiles": [
+    "For the DM/Summary.md",
     "Events/Battle of Arrowhead Ridge.md",
     "Concepts/Magic.md",
     "Campaigns/Bingus Club/Sessions/Bingus Club Session 0.md",
@@ -132,7 +133,6 @@
     "Storylines/Side Quests/An Excersise in Futility.md",
     "NPCs/Knights of the Coalition/General Alexandra Sunnea.md",
     "NPCs/Knights of the Coalition/Emery Ravenhurst.md",
-    "Campaigns/Bingus Club/PCs/Greggory Heffley.md",
-    "Concepts/Technology.md"
+    "Campaigns/Bingus Club/PCs/Greggory Heffley.md"
   ]
 }
