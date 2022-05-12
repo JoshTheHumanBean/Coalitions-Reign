@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Campaigns/Bingus Club/PCs/Eun-Seong.md",
+            "file": "Concepts/Magic.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Bingus Club/PCs/Eun-Seong.md",
+                "file": "Concepts/Magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "edc6664934ab4274",
   "lastOpenFiles": [
+    "Concepts/Magic.md",
+    "Campaigns/Bingus Club/Sessions/Bingus Club Session 0.md",
+    "Campaigns/Bingus Club/PCs/Aphrodite.md",
     "Campaigns/Bingus Club/PCs/Eun-Seong.md",
     "Storylines/Side Quests/An Excersise in Futility.md",
     "NPCs/Knights of the Coalition/General Alexandra Sunnea.md",
     "NPCs/Knights of the Coalition/Emery Ravenhurst.md",
     "Campaigns/Bingus Club/PCs/Greggory Heffley.md",
-    "Campaigns/Bingus Club/PCs/Aphrodite.md",
     "Concepts/Technology.md",
-    "Campaigns/Bingus Club/Sessions/Bingus Club Session 0.md",
-    "Campaigns/Untitled.md",
-    "Campaigns/Bingus Club.md"
+    "Campaigns/Untitled.md"
   ]
 }
