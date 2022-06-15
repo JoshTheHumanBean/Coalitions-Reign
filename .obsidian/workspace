@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "For the DM/Summary.md",
+            "file": "Storylines/Main Mission/2. Whispers in the Dark.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "For the DM/Summary.md",
+                "file": "Storylines/Main Mission/2. Whispers in the Dark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,8 @@
   },
   "active": "edc6664934ab4274",
   "lastOpenFiles": [
+    "Storylines/Main Mission/2. Whispers in the Dark.md",
+    "Storylines/Main Mission/1. A Call To Adventure.md",
     "For the DM/Summary.md",
     "Campaigns/Bingus Club/PCs/Aphrodite.md",
     "Events/Battle of Arrowhead Ridge.md",
@@ -131,8 +133,6 @@
     "Campaigns/Bingus Club/Sessions/Bingus Club Session 0.md",
     "Campaigns/Bingus Club/PCs/Eun-Seong.md",
     "Storylines/Side Quests/An Excersise in Futility.md",
-    "NPCs/Knights of the Coalition/General Alexandra Sunnea.md",
-    "NPCs/Knights of the Coalition/Emery Ravenhurst.md",
-    "Campaigns/Bingus Club/PCs/Greggory Heffley.md"
+    "NPCs/Knights of the Coalition/General Alexandra Sunnea.md"
   ]
 }
